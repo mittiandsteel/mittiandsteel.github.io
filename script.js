@@ -2,7 +2,7 @@
 // Add each social profile link here once the account exists.
 // Example: instagram: "https://www.instagram.com/mittiandsteel/"
 var SOCIAL = {
-  instagram: "",
+  instagram: "https://www.instagram.com/mittiandsteel/",
   youtube: "",
   tiktok: "",
   pinterest: ""
